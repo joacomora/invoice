@@ -1,6 +1,6 @@
 # IN application vars
 APP_URL=https://nginx.sliplane.app/
-APP_KEY=<insert your generated key in here>
+APP_KEY=base64:4t4m2PhxfcDe+j35IfDlmJTejmk/oUEDwr9doErZb50=
 APP_DEBUG=true
 REQUIRE_HTTPS=false
 PHANTOMJS_PDF_GENERATION=false
